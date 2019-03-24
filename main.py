@@ -1,9 +1,3 @@
-'''
-Adam Klekowski
-303119
-klekowskiadam@gmail.com
-'''
-
 import pygame
 import time
 import sys
@@ -81,7 +75,7 @@ if __name__=="__main__":
         while (not game.isPacmanDead and not game.isPlayerWin):
             clock.tick(FPS)
             game.drawingSurface(screen, pacman, enemy, CEILSIZE)
-            #warunek zwycięstwa
+            
             if game.score == game.totalAmountFood:
                 game.isPlayerWin = True
                 time.sleep(1)
