@@ -4,7 +4,7 @@
 * [Technologies](#technologies)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+Simple game written in Python using PyGame (end of term project).
 
 ## Screenshots
 ![MENU](https://github.com/AdamKlekowski/screenshots/blob/master/pacman1.png)
