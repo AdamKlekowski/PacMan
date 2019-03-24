@@ -2,6 +2,8 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [License](#license)
+* [Author](#author)
 
 ## General info
 Simple game written in Python using PyGame (end of term project).
@@ -10,8 +12,13 @@ Simple game written in Python using PyGame (end of term project).
 ![MENU](https://github.com/AdamKlekowski/screenshots/blob/master/pacman1.png)
 ![MainWindow](https://github.com/AdamKlekowski/screenshots/blob/master/pacman2.png)
 
-
 ## Technologies
 Project is created with:
-* Python version: 3.6.7
-* Pygame version: 1.9.1
+* Python version: 3.6
+* Pygame version: 1.9
+
+## License
+This project is released under the MIT Licence. See the bundled LICENSE file for details.
+
+## Author
+Adam Klekowski
