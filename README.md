@@ -2,6 +2,7 @@
 * [General info](#general-info)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
+* [Setup](#setup)
 * [License](#license)
 * [Author](#author)
 
@@ -16,6 +17,12 @@ Simple game written in Python using PyGame (end of term project).
 Project is created with:
 * Python version: 3.6
 * Pygame version: 1.9
+
+## Setup
+To run this project:
+```
+$ python3 main.py
+```
 
 ## License
 This project is released under the MIT Licence. See the bundled LICENSE file for details.
