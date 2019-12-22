@@ -4,7 +4,6 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [License](#license)
-* [Author](#author)
 
 ## General info
 Simple game written in Python using PyGame (end of term project).
@@ -26,6 +25,3 @@ $ python3 main.py
 
 ## License
 This project is released under the MIT Licence. See the bundled LICENSE file for details.
-
-## Author
-Adam Klekowski
