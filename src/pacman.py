@@ -3,7 +3,7 @@ import pygame
 class PacMan(object):
     def __init__(self):
         self.positionPacman=(0,0)
-        self.image=pygame.image.load("images/pacman.png")
+        self.image=pygame.image.load("img/pacman.png")
 
     def movePacman(self, direction, game):
         x=self.positionPacman[0]

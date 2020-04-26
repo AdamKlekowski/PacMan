@@ -4,7 +4,7 @@ import time
 class Enemy(object):
     def __init__(self):
         self.positionEnemy=(0,0)
-        self.image=pygame.image.load("images/enemy.png")
+        self.image=pygame.image.load("img/enemy.png")
         self.step=0
 
     def move(self, game, graph):
