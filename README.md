@@ -1,14 +1,12 @@
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [License](#license)
 
 ## General info
-Simple game written in Python using PyGame (end of term project).
+Project was developed for Introduction for Computer Science class (AGH UST).
 
-## Screenshots
 ![MENU](screenshots/pacman1.png)
 ![MainWindow](screenshots/pacman2.png)
 
