@@ -9,8 +9,8 @@
 Simple game written in Python using PyGame (end of term project).
 
 ## Screenshots
-![MENU](https://github.com/AdamKlekowski/screenshots/blob/master/pacman1.png)
-![MainWindow](https://github.com/AdamKlekowski/screenshots/blob/master/pacman2.png)
+![MENU](screenshots/pacman1.png)
+![MainWindow](screenshots/pacman2.png)
 
 ## Technologies
 Project is created with:
